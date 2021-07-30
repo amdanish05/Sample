@@ -11,6 +11,7 @@ public class SimpleJava {
 		System.out.println("Sample");
 		System.out.println("s");
 		System.out.println("s1");
+		System.out.println("s2");
 		
 	}
 }
